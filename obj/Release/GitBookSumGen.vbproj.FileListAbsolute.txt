@@ -1,0 +1,12 @@
+f:\gitbookgen\GitBookSumGen\bin\Release\GitBookSumGen.exe.config
+f:\gitbookgen\GitBookSumGen\bin\Release\GitBookSumGen.exe
+f:\gitbookgen\GitBookSumGen\bin\Release\GitBookSumGen.pdb
+f:\gitbookgen\GitBookSumGen\bin\Release\GitBookSumGen.xml
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.vbprojAssemblyReference.cache
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.Form1.resources
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.Resources.resources
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.vbproj.GenerateResource.cache
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.vbproj.CoreCompileInputs.cache
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.exe
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.xml
+f:\gitbookgen\GitBookSumGen\obj\Release\GitBookSumGen.pdb
